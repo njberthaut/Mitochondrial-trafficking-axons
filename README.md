@@ -4,6 +4,7 @@ Stochastic model of mitochondrial trafficking in axons
 **Description:
 **
 
+![Mito_trafficking_concept](https://github.com/user-attachments/assets/83228ff9-4166-451b-95fd-eaa9030cfb0b)
 
 **Table of contents: 
 **
@@ -20,3 +21,8 @@ Modules:
 Morphologies folder 
 - tree_10_mm_path.swc : Model axon used for simulation. _Characteristics:
     total length:10 mm, max. soma-endpoint distance: 10mm, inter-node distance: 0.2 um, number of nodes: 116656, unmber of branchpoints: 3, max.branch order: 3, number of endpoints: 4._
+
+
+How to run:
+Simulations were run in Python 3.8.8. The following packages are needed: 
+
