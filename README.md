@@ -3,6 +3,9 @@ Stochastic model of mitochondrial trafficking in axons
 
 ## Description:
 
+A stochastic single-particle model of axonal mitochondrial trafficking was developed and fitted to in vivo two-photon imaging data of mitochondria in distal cortical axons. Simulations can reveal the behaviour of individual mitochondria with heterogeneous dynamics governed by probabilistic states. The model can be used to explore questions and inform hypotheses relating to pausing, direction of transport
+and effects of morphology. Parameters relating to all these notions can be easily altered to test their effects on mitochondrial transport dynamics.
+
 ![Mito_trafficking_concept](https://github.com/user-attachments/assets/83228ff9-4166-451b-95fd-eaa9030cfb0b)
 
 from:
