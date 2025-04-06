@@ -6,6 +6,9 @@ Stochastic model of mitochondrial trafficking in axons
 
 ![Mito_trafficking_concept](https://github.com/user-attachments/assets/83228ff9-4166-451b-95fd-eaa9030cfb0b)
 
+[Mitochondrial trafficking dynamics in axons: insights from in vivo two-photon imaging and computational modelling
+(Berthaut, N. J. J.) 10 Dec 2024](https://research-information.bris.ac.uk/en/studentTheses/mitochondrial-trafficking-dynamics-in-axons)
+
 **Table of contents: 
 **
 
