@@ -30,7 +30,7 @@ Modules:
 Morphologies folder 
 - tree_10_mm_path.swc : Model axon used for simulation. _Characteristics:
     total length:10 mm, max. soma-endpoint distance: 10mm, inter-node distance: 0.2 um, number of nodes: 116656, unmber of branchpoints: 3, max.branch order: 3, number of endpoints: 4._
-- nobranchtree.swc : Straight cable used for optimisation.
+- nobranchtree.swc : Straight cable used for parameter optimisation.
 
 ## How to run:
 Simulations were run in Python 3.8.8. The following package is needed: 
